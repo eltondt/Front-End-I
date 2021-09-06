@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image:url("sorocaba-cidade-1.jpg");
+    background-repeat: no-repeat;
+    background-color: rgb(186, 223, 162);
+
+}
+.titulo {
+    background-color: rgb(0, 118, 139);
+    vertical-align: 15px;
+    width: 1348px;
+    height: 70px;
+    position: relative;
+    text-align: center;
+    border-radius: 15px;
+
+}
+.sub {
+    text-align: center;
+    margin: 60px 200px;
+    position:absolute;
+    background-color: rgb(224, 224, 224);
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    margin: 20px;
+    font-size: 60px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    margin: 15px;
+}
+
+.texto1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:20px;
+    font-size: 18px;
+}
+
+p {
+    margin: 15px;
+}
+
+iframe{
+    width: 1280;
+    height: 720;
+    position: absolute;
+    top:140%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.icone {
+    background-color: rgb(0, 118, 139);
+    vertical-align: 10px;
+    width: 1348px;
+    position: absolute;
+    text-align: center;
+    border-radius: 15px;
+    top:200%;
+}
+
+.icone1 {
+    width: 1290px;
+    height: 100px;
+    position: absolute;
+    top:220%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.insta {
+    width: 10;
+    height: 0;
+    position:absolute;
+    top:228%;
+    left: 50%;
+    transform: translate(-50%);
+}
